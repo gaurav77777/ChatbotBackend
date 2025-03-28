@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Bytecode
+__pycache__/
+*.pyc
+
+# Logs and junk
+*.log
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# Environment variables
+.env
